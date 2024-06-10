@@ -253,11 +253,11 @@ nav {
 }
 
 @media (max-width: 450px) {
-  .hero{
+  .hero {
     background-image: url(images/forest-5855196_1280.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;
   }
   .slider {
     display: none;
